@@ -1,6 +1,5 @@
 ### Hi there 👋
-wave Hi, I’m @Muhammad-Feroz
-eyes I’m interested in Web Development
-seedling I’m currently learning Full Stack Web Development
-revolving_hearts I’m looking to collaborate on (Nothing for Now)
-mailbox You Can reach me at muhammadferoz760@gmal.com
+# Hi, I’m Saiurabh Kumar
+#  I worked as a  MERN Stack Develoepr at Cerebroz Edutree LLP 
+# I'm looking for oppurtunity as a MERN Stack Developer.
+# mailbox You Can reach me at saurabh.kumarjan10@gmail.com
