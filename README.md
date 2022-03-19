@@ -4,12 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpojhi&layout=compact)](https://github.com/saurabhpojhi/github-readme-stats)
 
-<a href="https://github.com/saurabhpojhi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpojhi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/saurabhpojhi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpojhi&repo=convoychat" />
-</a>
+
 
 **languages and tools:**  
 
