@@ -7,5 +7,5 @@
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/saurabhpojhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="saurabhpojhi" height="30" width="40" /></a>
-<a href="linkedin.com/in/saurabh-kumar-b6bb1a12a" target="blank"><img align="center" src="https://raw.githubusercontent.com/saurabhpojhi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh kumar" height="30" width="40" /></a>
+<a href="linkedin.com/in/saurabhkumarpojhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/saurabhkumarpojhi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkumarpojhi" height="30" width="40" /></a>
 
