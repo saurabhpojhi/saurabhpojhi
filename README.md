@@ -8,3 +8,4 @@
 <p align="left">
 <a href="https://dev.to/saurabhpojhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="saurabhpojhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabhkumarpojhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/saurabhpojhi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkumarpojhi" height="30" width="40" /></a>
+  <a href="https://instagram.com/tinkukumar2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/saurabhpojhi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinkukumar2012" height="30" width="40" /></a>
