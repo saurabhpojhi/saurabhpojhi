@@ -1,5 +1,5 @@
 ### Hi there I’m Saurabh Kumar 👋 
-###  I’m currently exploring JavaScript, Node,Express and MongoDb
+###  I’m currently exploring Java, selenium 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhpojhi&theme=dark&show_icons=true)
 
 
@@ -11,7 +11,7 @@
 
 **languages and tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
