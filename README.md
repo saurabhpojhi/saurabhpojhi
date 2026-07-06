@@ -1,5 +1,5 @@
-### Hi there I’m Saurabh Kumar 👋 
-###  I’m currently exploring Java, selenium 
+### Hi there, I’m Saurabh Kumar 👋 
+###  I’m currently using Playwright, Typescript/JavaScript
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhpojhi&theme=dark&show_icons=true)
 
 
